@@ -4,6 +4,8 @@
 ![bt](https://github.com/Shreyathalanki26/CodeClauseInternship_Brain-Tumor-Detection-with-Data-Science/assets/96583621/d417a6d3-39a1-42e9-9a88-7d4a96452136)
 
 Project Description :
+
+
 The project aims to develop an efficient brain tumor detection system using machine learning models, specifically Logistic Regression and Support Vector Classification (SVC). Brain tumor detection is crucial for early diagnosis and effective treatment. We will utilize a dataset containing MRI images of the brain to train and evaluate our models.
 
 The Logistic Regression model will be employed to classify brain MRI images into tumor or non-tumor categories based on relevant features extracted from the images. Logistic Regression's probabilistic nature makes it suitable for binary classification tasks.
@@ -15,5 +17,7 @@ Our project will involve data preprocessing, feature extraction, model training,
 By combining the strengths of Logistic Regression and SVC, we intend to create a robust brain tumor detection system that can aid medical professionals in making accurate and timely diagnoses, ultimately contributing to improved patient outcomes and healthcare efficiency.
 
 Insights :
+
+
 After training and testing the data with the models, it is observed that SVC performs better than Logistic Regression with a higher accuracy rate.
 
